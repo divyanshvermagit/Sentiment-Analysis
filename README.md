@@ -1,7 +1,7 @@
 # Sentiment Analysis Using Machine Learning | End-to-End Resume Project with Python
 
 Learn how to build a Sentiment Analysis Project using Machine Learning and NLP in Python! 🚀
-In this full step-by-step tutorial, we’ll analyze real-world text data and classify emotions as Positive, Negative, or Neutral using powerful machine learning algorithms.
+In this full step-by-step project, we’ll analyze real-world text data and classify emotions as Positive, Negative, or Neutral using powerful machine learning algorithms.
 
 This Sentiment Analysis Machine Learning Project is perfect for data science, AI, and NLP enthusiasts who want to build a real-world project for their portfolio and understand how text analytics and natural language processing work in practice.
 
@@ -24,8 +24,5 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | NLTK | WordCloud
 
 Machine Learning | NLP | Data Science | Python | Sentiment Analysis | Text Classification | Natural Language Processing
 
-🔔 Don’t Forget To:
-
-👍 Like | 💬 Comment | 🔔 Subscribe for more AI, ML, and Data Science Projects: @SouvikChai
-
 📢 Share this project with your friends who are learning Machine Learning, NLP, and Python!
+
